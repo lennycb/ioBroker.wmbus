@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "@iobroker/adapter-core": "^1.0.3",
-    "node-aes-cmac": "^0.1.1"
+    "node-aes-cmac": "^0.1.1",
+    "serialport": "https://github.com/lennycb/node-serialport/tarball/v6.2.2-symlinks"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
